@@ -1,0 +1,109 @@
+D:\DB\invoice_ms\invoice_ms\bin\ApplicationInsights.config
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\csc.exe
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\System.Collections.Immutable.dll
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\System.Reflection.Metadata.dll
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\vbc.exe
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\VBCSCompiler.exe
+D:\DB\invoice_ms\invoice_ms\bin\roslyn\VBCSCompiler.exe.config
+D:\DB\invoice_ms\invoice_ms\bin\invoice_ms.dll.config
+D:\DB\invoice_ms\invoice_ms\bin\invoice_ms.dll
+D:\DB\invoice_ms\invoice_ms\bin\invoice_ms.pdb
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.DependencyCollector.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.Web.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.WindowsServer.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.ApplicationInsights.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.Web.Infrastructure.dll
+D:\DB\invoice_ms\invoice_ms\bin\Newtonsoft.Json.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Net.Http.Formatting.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Helpers.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Http.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Http.WebHost.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Mvc.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Razor.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Webpages.Deployment.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Webpages.dll
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Webpages.Razor.dll
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.DependencyCollector.xml
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.Web.xml
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.AI.WindowsServer.xml
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.ApplicationInsights.xml
+D:\DB\invoice_ms\invoice_ms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DB\invoice_ms\invoice_ms\bin\Newtonsoft.Json.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Net.Http.Formatting.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Http.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Http.WebHost.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Razor.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Webpages.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Webpages.Deployment.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Webpages.Razor.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Helpers.xml
+D:\DB\invoice_ms\invoice_ms\bin\System.Web.Mvc.xml
+D:\DB\invoice_ms\invoice_ms\obj\Debug\invoice_ms.csprojResolveAssemblyReference.cache
+D:\DB\invoice_ms\invoice_ms\obj\Debug\invoice_ms.dll
+D:\DB\invoice_ms\invoice_ms\obj\Debug\invoice_ms.pdb
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\ApplicationInsights.config
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\csc.exe
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\vbc.exe
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\invoice_ms.dll.config
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\invoice_ms.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\invoice_ms.pdb
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.Web.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Newtonsoft.Json.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Net.Http.Formatting.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Helpers.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Http.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Http.WebHost.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Mvc.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Razor.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Webpages.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Webpages.Razor.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.Web.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\Newtonsoft.Json.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Net.Http.Formatting.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Http.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Http.WebHost.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Razor.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Webpages.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Webpages.Razor.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Helpers.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\bin\System.Web.Mvc.xml
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\obj\Debug\invoice_ms.csprojAssemblyReference.cache
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\obj\Debug\invoice_ms.csproj.CopyComplete
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\obj\Debug\invoice_ms.dll
+C:\Users\SAM SIGMA\Downloads\Invoice_ManagmentSystem-master\invoice_ms\invoice_ms\obj\Debug\invoice_ms.pdb
